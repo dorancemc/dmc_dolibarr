@@ -1,0 +1,14 @@
+Module20Name=Cotizaciones
+Module20Desc=Gestión de cotizaciones/propuestas comerciales
+
+Permission21=Consultar cotizaciones
+Permission22=Crear/modificar cotizaciones
+Permission24=Validar cotizaciones
+Permission25=Enviar las cotizaciones
+Permission26=Cerrar cotizaciones
+Permission27=Eliminar cotizaciones
+Permission28=Exportar las cotizaciones
+
+DictionarySource=Orígenes de cotizaciones/pedidos
+
+PropalSetup=Configuración del módulo cotizaciones
